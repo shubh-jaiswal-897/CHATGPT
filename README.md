@@ -229,7 +229,7 @@ This project is open source and available under the MIT License. See the LICENSE
 
 **Author:** Shubh Jaiswal  
 **GitHub:** [@shubh-jaiswal-897](https://github.com/shubh-jaiswal-897)  
-**Email:** [Your Email]  
+**Email:** sj7518378908@gmail.com  
 
 For issues and questions, please open an [Issue](https://github.com/shubh-jaiswal-897/CHATGPT/issues) on GitHub.
 
